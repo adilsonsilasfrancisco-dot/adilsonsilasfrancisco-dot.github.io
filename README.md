@@ -1,33 +1,72 @@
-# Portfólio — Adilson Silas
+<!-- @format -->
 
-Portfólio pessoal de Desenvolvedor Web, desenvolvido com HTML5, CSS3 e JavaScript.
+# 👨‍💻 Adilson Silas | Desenvolvedor Web
 
-## Tecnologias
+<p align="center">
+  <img src="assets/img/perfil.jpg" width="150" alt="Fotografia de Adilson Silas">
+</p>
+
+<h2 align="center">Olá! Seja bem-vindo ao meu portfólio 👋</h2>
+
+<p align="center">
+  Desenvolvedor Web em formação, apaixonado por tecnologia, programação e criação de soluções digitais.
+</p>
+
+<p align="center">
+  <a href="https://adilsonsilasfrancisco-dot.github.io">🌐 Ver Portfólio</a> •
+  <a href="https://github.com/adilsonsilasfrancisco-dot">GitHub</a> •
+  <a href="https://www.linkedin.com/in/adilson-francisco-09b137362">LinkedIn</a>
+</p>
+
+---
+
+## 🚀 Sobre o projeto
+
+Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvido para apresentar a minha trajetória, competências técnicas e projetos na área de desenvolvimento web.
+
+O objetivo é criar uma presença profissional online e partilhar os trabalhos que desenvolvo durante a minha evolução como programador.
+
+## 🛠️ Tecnologias utilizadas
+
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap Icons
-- Google Fonts
+- Git e GitHub
+- GitHub Pages
 
-## Executar localmente
-1. Descarrega ou clona este repositório.
-2. Abre a pasta no Visual Studio Code.
-3. Abre o ficheiro `index.html` no navegador (ou utiliza a extensão Live Server).
+## 💡 Projetos em destaque
 
-## Personalização antes de publicar
-- Atualiza os links do GitHub e LinkedIn em `index.html`.
-- Substitui `teuemail@example.com` pelo teu email.
-- Atualiza os links dos repositórios de cada projeto.
-- Confirma a informação da formação académica.
-- Adiciona imagens reais dos projetos em `assets/img/` se quiseres substituir as ilustrações CSS.
+### 🌐 Kyky Languages
 
-## Publicar com GitHub Pages
-1. Cria um repositório público chamado `TEU-UTILIZADOR.github.io`.
-2. Envia os ficheiros deste projeto para a raiz do repositório.
-3. No GitHub, abre **Settings → Pages**.
-4. Em **Build and deployment**, escolhe **Deploy from a branch**.
-5. Seleciona a branch `main` e a pasta `/ (root)`, depois guarda.
-6. Aguarda a publicação. O endereço será `https://TEU-UTILIZADOR.github.io`.
+Plataforma de aprendizagem de idiomas, com foco numa experiência moderna e intuitiva.
+
+### 🛍️ ASAF Store
+
+Projeto de comércio eletrónico com apresentação de produtos, carrinho de compras e área administrativa.
+
+### 📚 Sistema de Aprendizagem
+
+Aplicação desktop desenvolvida em Java Swing, com integração com SQL Server.
+
+## 🎯 Competências
+
+- Desenvolvimento de interfaces web responsivas.
+- Estruturação de páginas com HTML5.
+- Estilização e layouts com CSS3.
+- Interatividade com JavaScript.
+- Desenvolvimento com Java.
+- Gestão de bases de dados com SQL Server.
+
+## 📬 Contacto
+
+- **Email:** adilsonsilasfrancisco@gmail.com
+- **WhatsApp:** [+244 954 379 747](https://wa.me/244954379747)
+- **LinkedIn:** [Adilson Francisco](https://www.linkedin.com/in/adilson-francisco-09b137362)
+- **GitHub:** [adilsonsilasfrancisco-dot](https://github.com/adilsonsilasfrancisco-dot)
 
 ---
-Feito com dedicação por Adilson Silas.
+
+<p align="center">
+  Desenvolvido com dedicação por <strong>Adilson Silas</strong> 💙
+</p>

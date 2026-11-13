@@ -3,7 +3,7 @@
 # 👨‍💻 Adilson Silas | Desenvolvedor Web
 
 <p align="center">
-  <img src="assets/img/perfil.jpg" width="150" alt="Fotografia de Adilson Silas">
+  <img src="assets/img/WhatsApp Image 2026-11-12 at 6.33.03 PM.jpeg" width="150" alt="Fotografia de Adilson Silas">
 </p>
 
 <h2 align="center">Olá! Seja bem-vindo ao meu portfólio 👋</h2>

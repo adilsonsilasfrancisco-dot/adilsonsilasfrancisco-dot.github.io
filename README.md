@@ -26,14 +26,18 @@ Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvid
 
 O objetivo é criar uma presença profissional online e partilhar os trabalhos que desenvolvo durante a minha evolução como programador.
 
-## 🛠️ Tecnologias utilizadas
+Tecnologias e ferramentas
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap Icons
-- Git e GitHub
-- GitHub Pages
+<p>
+  <img src="https://img.shields.io/badge/HTML5-24d1dd?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-24d1dd?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-24d1dd?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-24d1dd?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Java-24d1dd?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java">
+  <img src="https://img.shields.io/badge/SQL_Server-24d1dd?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Git-24d1dd?style=for-the-badge&logo=git&logoColor=black" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-24d1dd?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
+</p>
 
 ## 💡 Projetos em destaque
 
